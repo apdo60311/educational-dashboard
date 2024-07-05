@@ -1,0 +1,28 @@
+.student-manager {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.student-manager h2 {
+  margin-bottom: 20px;
+}
+
+.student-manager select,
+.student-manager ul {
+  margin-top: 10px;
+}
+
+.student-manager ul {
+  padding-left: 0;
+}
+
+.student-manager li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}

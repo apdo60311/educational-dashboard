@@ -1,0 +1,16 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .dashboard h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard > div {
+    margin: 10px 0;
+  }
+  
